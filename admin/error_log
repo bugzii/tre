@@ -1,0 +1,1 @@
+[07-Dec-2014 08:52:07 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/ronnie88/public_html/admin/index.php on line 10

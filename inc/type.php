@@ -1,0 +1,3 @@
+<?
+include "data/type.php";
+?>

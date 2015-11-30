@@ -1,0 +1,2 @@
+[07-Dec-2014 16:11:31 UTC] PHP Fatal error:  Call to undefined function imagegrabscreen() in /home/ronnie88/public_html/inc/home.php on line 5
+[07-Dec-2014 16:12:55 UTC] PHP Fatal error:  Call to undefined function imagegrabscreen() in /home/ronnie88/public_html/inc/home.php on line 5
