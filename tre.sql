@@ -528,7 +528,7 @@ INSERT INTO `records` (`id`, `type`, `character`, `amount`, `url`, `accepted`, `
 (1393, 'totdmg', 'Aid-jan', 3728582, 'http://i.imgur.com/KWSaZZG.jpg', 1, 'rep', 'shaass', '3.1', 'warzone', '2015-06-06 20:04:17', ''),
 (1394, 'totdmg', 'Hug''for''heals', 3547362, 'http://i.imgur.com/KWSaZZG.jpg', 1, 'rep', 'sagsor', '3.1', 'warzone', '2015-06-06 20:05:16', ''),
 (1395, 'totheal', 'Noodle', 5383503, 'http://i.imgur.com/DYB1oW6.jpg', 1, 'imp', 'commer', '3.1', 'warzone', '2015-06-07 10:42:48', ''),
-(1396, 'solo', 'Symic', 10, 'http://i.imgur.com/AFhQksb.png', 1, 'rep', 'shaass', '3.1', 'warzone', '2015-06-07 20:33:13', ''),
+(1396, 'solo', 'Symic', 11, 'http://i.imgur.com/AFhQksb.png', 1, 'rep', 'shaass', '3.1', 'warzone', '2015-06-07 20:33:13', ''),
 (1397, 'dps', 'Balenor', 4241, 'http://i.imgur.com/tUzNQEn.jpg', 2, 'rep', 'shaass', '3.1', 'warzone', '2015-06-08 19:20:18', ''),
 (1398, 'dps', 'Balenor', 4241, 'http://i.imgur.com/tUzNQEn.jpg', 2, 'rep', 'shaass', '3.0', 'warzone', '2015-06-08 19:22:03', ''),
 (1399, 'dps', 'Balenor', 4241, 'http://i.imgur.com/tUzNQEn.jpg', 2, 'rep', 'shaass', '3.1', 'warzone', '2015-06-08 19:28:01', ''),
